@@ -1,4 +1,5 @@
-AV.initialize("fan7es8i7rat0a3rcxo18fxl6mp6a2eq4mffdpcyeuo5uoju", "9n9vm9kvj6eeet2qxgnvh6kq5zrjp520kw9uxwlygu8qj1x7");
+//初始化 param1  应用id param2 应用key
+AV.initialize("lhfdts27whl1c0fvascolmicmmbod1f2xqtez4yt2yo9xsmr", "08dz40q3035kosg3z5qsol71gyrducipzz0ufbx87jqfetax");
 //分类
 var cats={
     'programmer':'程序员',
